@@ -1,7 +1,7 @@
 /*
  * Joe/algo.c
  *
- * This is file is for algo.
+ * This file is for algo.
  *
  * Copyright (C) 2019-2020 Joe
  *
@@ -149,7 +149,7 @@ void quick_sort(int array[], int left, int right)
 void main()
 {
     int i ;
-    int array[10] = {6, 1, 3, 5, 7, 2, 9, 8, 4, 0};
+    int array[10] = {8, 1, 3, 7, 2, 5, 9, 0, 6, 4};
 
     print_array(array, 10);
 
